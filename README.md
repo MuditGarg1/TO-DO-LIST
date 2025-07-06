@@ -20,10 +20,10 @@ A simple and responsive to-do list web application that allows users to add, del
 ## 🧑‍💻 How to Use
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/to-do-list.git`
+   `git clone https://github.com/your-username/TO_DO_LIST.git`
 
 2. Open the project folder  
-   `cd to-do-list`
+   `cd TO_DO_LIST`
 
 3. Open `index.html` in your browser  
    or use Live Server in VS Code.
